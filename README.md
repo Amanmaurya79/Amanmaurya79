@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Amanmaurya79
 - 👀 I’m interested in App Development
-- 🌱 I’m currently learning iOS development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
